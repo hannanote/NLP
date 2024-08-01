@@ -1,7 +1,7 @@
 ### Natural Language Processing
 text analysis, tokenization, part-of-speach tagging
 
-Key Functions of NLPK /n
+Key Functions of NLPK 
  ● Text data processing 
  ● Tokenization
  ● Morphological analysis
