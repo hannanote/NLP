@@ -7,3 +7,6 @@ Key Functions of NLPK
  ● Morphological analysis
  ● Part-of-Speech Tagging
  ● Syntactic parsing
+
+
+NLP
